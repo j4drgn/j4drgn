@@ -1,3 +1,7 @@
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{j4drgn}?pet-id=1" width="1000" height="120"/>
+</a>
+
 ## KimJiYong / 김지용
 
 안녕하세요! 🙋‍♂️ 개발자 입니다. 개발은 Programming이 아닌 Development라는 생각으로, 개발자 뿐 아니라 모든 직군이 함께 해야하는 것 이라고 생각합니다.
