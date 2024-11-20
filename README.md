@@ -1,10 +1,12 @@
+
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/j4drgn"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/j4drgn"
+    width="1000"
+    height="500"
+  />
 </a>
+  
 
 ## KimJiYong / 김지용
 
