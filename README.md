@@ -2,8 +2,8 @@
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/j4drgn"
-  width="600"
-  height="300"
+  width="1000"
+  height="400"
 />
 </a>
   
