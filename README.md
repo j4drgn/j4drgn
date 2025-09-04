@@ -1,4 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12,19,24&text=Welcome%20to%20my%20Github&reversal=false&textBg=false&fontColor=222222&desc=Jiyong%20Kim&descSize=30)
+<picture>
+  <!-- 다크 모드용 -->
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12,19,24&text=Welcome%20to%20my%20Github&fontColor=f7f5f5&desc=Jiyong%20Kim&descSize=30" />
+  
+  <!-- 라이트 모드용 -->
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=3,4,19&text=Welcome%20to%20my%20Github&fontColor=2c2c2c&desc=Jiyong%20Kim&descSize=30" />
+
+  <!-- 기본값 (라이트 모드 못잡을 경우 대비) -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12,19,24&text=Welcome%20to%20my%20Github&fontColor=2c2c2c&desc=Jiyong%20Kim&descSize=30" />
+</picture>
 
 <div align="center"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 반갑습니다 </h2>  
