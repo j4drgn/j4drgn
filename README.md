@@ -1,4 +1,4 @@
-![header](![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Welcome%20to%20my%20Github&reversal=false&textBg=false&fontColor=2c2c2c&desc=Jiyong%20Kim&descSize=30))
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12,19,24&text=Welcome%20to%20my%20Github&reversal=false&textBg=false&fontColor=2c2c2c&desc=Jiyong%20Kim&descSize=30)
 
 <div align="center"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 반갑습니다 </h2>  
