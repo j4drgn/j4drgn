@@ -2,7 +2,7 @@
   <!-- 다크 모드용 -->
   <source 
     media="(prefers-color-scheme: dark)" 
-    srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12,19,24&text=Welcome%20to%20my%20Github&fontColor=f7f5f5&desc=Jiyong%20Kim&descSize=30" />
+    srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12,19,24&text=Welcome%20to%20my%20Github&fontColor=f5f5f5&desc=Jiyong%20Kim&descSize=30" />
   
   <!-- 라이트 모드용 -->
   <source 
