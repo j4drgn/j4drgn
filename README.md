@@ -1,6 +1,4 @@
-<div align="center">
-  [<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:5374c1,100:bbb6d3&height=120&text=Hello!%20i'm%20Jiyong&animation=&fontColor=ffffff&fontSize=40" />](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Welcome%20to%20my%20Github&reversal=false&textBg=false&fontColor=2c2c2c&desc=Jiyong%20Kim&descSize=30)
-</div>
+![header](![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Welcome%20to%20my%20Github&reversal=false&textBg=false&fontColor=2c2c2c&desc=Jiyong%20Kim&descSize=30))
 
 <div align="center"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 반갑습니다 </h2>  
