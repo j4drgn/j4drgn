@@ -4,6 +4,7 @@
 
 > 백엔드 엔지니어 **김지용**이라고 합니다.
 
+
 ## 🛠️ Tech Stacks
 
 <p align="center">
@@ -18,7 +19,7 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-## ETC
+## 📊 ETC
 
-![wuzoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=j4drgn&include_all_commits=True&show_icons=true&theme=dark)
+![김지용 (jiyong Kim)'s GitHub Stats](https://github-readme-stats.vercel.app/api?username=j4drgn&include_all_commits=True&show_icons=true&theme=algolia&title_color=ffffff&icon_color=3498db)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimji0423)](https://solved.ac/kimji0423/)
