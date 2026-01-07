@@ -15,8 +15,3 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
 </p>
-
-## 📊 ETC
-
-![김지용 (jiyong Kim)'s GitHub Stats](https://github-readme-stats.vercel.app/api?username=j4drgn&include_all_commits=True&show_icons=true&theme=algolia&title_color=ffffff&icon_color=3498db)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimji0423)](https://solved.ac/kimji0423/)
